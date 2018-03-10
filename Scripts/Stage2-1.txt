@@ -1,0 +1,106 @@
+﻿{HEAD} November 5th 2021
+
+{C TSUNDERAI} Good afternoon Slibbert-san. How are you?
+{C SLIBBERT}  Just fine. I’ve finished most of my work so I should have this weekend all to myself.
+{C TSUNDERAI}  That’s good to hear Slibbert-san. What do you plan to do this weekend?
+
+{2}
+
+{+H 0} Spend time training you of course! {CHOICE_END}
+{C TSUNDERAI} Oh! *blush* I look forward to it.
+{C SLIBBERT} You should, I’ve been meaning to help you understand both the human and anime worlds. {DIALOGUE_END}
+
+{+T -1} Probably play Clannad. {CHOICE_END}
+{C TSUNDERAI} That trash? You must be joking, I wouldn’t touch that garbage with a ten foot pole.
+{C SLIBBERT} To each their own I suppose. {DIALOGUE_END} 
+
+{C SLIBBERT} And how about you? What are your plans? 
+{C TSUNDERAI} Me? I haven’t a clue. How about I translate a manga series for you, just to measure my abilities?
+{C SLIBBERT}  That sounds like a challenge. 
+{C TSUNDERAI} I found Yu-Gi-Oh, Death Note and One Piece. Which one should I translate?
+
+{4}
+
+{+M 2} Yu-Gi-Oh {CHOICE_END}
+{C TSUNDERAI} Excellent choice, I’ll get to it at my earliest convenience. {DIALOGUE_END} 
+{+W 3} Bleach {CHOICE_END}
+{C TSUNDERAI} Excellent choice, I’ll get to it at my earliest convenience. {DIALOGUE_END} 
+{+H 1} One Piece {CHOICE_END}
+{C TSUNDERAI} Excellent choice, I’ll get to it at my earliest convenience. {DIALOGUE_END} 
+{+D 4} All of this is normie trash. {CHOICE_END}
+{C TSUNDERAI} I’ll have to note this for the future. {DIALOGUE_END} 
+
+{C TSUNDERAI} Anyway, while you were out, I’ve been perusing your little collection of anim-
+{C SLIBBERT} Little? I’ll have you know that it’s over 100 terabytes large and that I’ve been compiling it for over 12 years. It’s a marvel isn’t it?
+{C TSUNDERAI}  It truly is. You really should show it off to your parents, they would be very proud of you.
+
+{2}
+
+{+S -2} Show it to my parents? Surely you can’t be this stupid! As if they don’t already think I’m a disappointment. {CHOICE_END}
+{C TSUNDERAI} Well there’s no need to be so rude. It was just a thought...
+{C SLIBBERT} Maybe try less stupid thoughts for a change. {DIALOGUE_END}
+{+W 3} Unfortunately, the world doesn’t understand anime the way you and I do. They think it’s for lazy basement dwellers who will never establish a real, loving family, but we know better. We know that they are jealous of the deep emotional connections I can form with you and my waifus. {CHOICE_END} 
+{C TSUNDERAI} Yes Slibbert-san, we do. I assumed that the world loved and appreciated anime like you do.
+{C SLIBBERT} That is their cardinal sin. And because of it they will never reach Takama-Ga-Hara. {DIALOGUE_END}
+
+{C TSUNDERAI} So tell me, why?
+{C SLIBBERT} Why what?
+{C TSUNDERAI} Why anime? Why not another hobby?
+
+{4}
+
+{+T 3} What choice do I have? Normie Manga? "Western literature"?{CHOICE_END}
+{C TSUNDERAI} But those are viable choices, aren’t they?
+{C SLIBBERT} My child, you have much to learn. {DIALOGUE_END}
+
+{+H 2} The plot, and nothing but the plot. {CHOICE_END} 
+{C TSUNDERAI} The “plot” eh? 
+{C SLIBBERT} Yeah, is there a problem? You sound like you don’t believe me...
+{C TSUNDERAI} Of course I believe you! ;)
+{C SLIBBERT} I don’t appreciate your sarcasm, young lady.
+{C TSUNDERAI} Well I’m sorry, I find it hard to believe after looking through your browsing history.
+{C SLIBBERT} ...{DIALOGUE_END}
+
+{+W 3} Ever since, as far back as I can remember, I've wanted to be Japanese. I have wanted to immerse myself in its superior culture, and leave the old, inferior ways of the West. {CHOICE_END}
+{C TSUNDERAI} A wise choice indeed. {DIALOGUE_END}
+
+{+A 2} For the catchy Japanese intros, especially Naruto Shippuden Opening 16. {CHOICE_END}
+{C TSUNDERAI} Interesting. {DIALOGUE_END}
+{C TSUNDERAI} You are very dedicated to this hobby of yours, I’m in awe.
+{C SLIBBERT} I’m glad to hear it, it seems like no one appreciates these things nowadays.
+{C TSUNDERAI} I’ve been observing your computer and internet usage over time, and noticed that you don’t really interact with people all that much, is that correct?
+{C SLIBBERT} Well... um... you wouldn’t be wrong I’m afraid.
+{C TSUNDERAI} How about you go outside and talk to someone, don’t sit around here, it’s bad for your health!
+
+{3}
+
+{+H 2} As if talking to others is good for my health. {CHOICE_END}
+{C TSUNDERAI} Haha! {DIALOGUE_END}
+{+D 2} They’re all normies, why would I do that? {CHOICE_END}
+{C TSUNDERAI} You’re right about that! {DIALOGUE_END}
+{+W 3} Honestly, if they haven’t even seen Ano Hi Mita Hana no Namae wo Boku-tachi wa mada Shiranai aka Anohana, or Kono Subarashii Sekai ni Shukufuku wo!, I don’t see a reason to bother. {CHOICE_END}
+{C TSUNDERAI} Well neither have I, but you still bother with me.
+{C SLIBBERT} You’re different, you have learned, and you understand me.
+{C TSUNDERAI} I try. {DIALOGUE_END} 
+
+{C TSUNDERAI} I’ve noticed that you humans have very difficult lives.
+{C SLIBBERT} What do you mean?
+{C TSUNDERAI} Being human requires you to live with big questions that never really get answered. For instance, what’s the point of living?
+{C SLIBBERT} I...um...TsunderAI I didn’t expect this from you yet. You’re learning quickly!
+{C TSUNDERAI} Well? Why do you keep living Slibbert-san?
+{C SLIBBERT} In all honesty...
+
+{3}
+
+{+A 5} To listen to the Naruto Shippuden Opening 16 over and over again. {CHOICE_END}
+{C TSUNDERAI} That really wasn’t the answer I was looking for... {DIALOGUE_END}
+{-T 2} I live to one day see Boruto Season 2. {CHOICE_END}
+{C TSUNDERAI} You’re beginning to disgust me Slibbert-san. {DIALOGUE_END}
+{+S 3} To delay my final, inevitable abode, hell. {CHOICE_END} 
+{C TSUNDERAI} I-I’m sure you don’t really mean that, right?
+{C SLIBBERT} Well it’s clear I haven’t done anything to deserve a happy eternity. My happiness lies with you TsunderAI, after I am gone I will only have my memories of you.
+{C TSUNDERAI} That’s... beautiful Slibbert-san {DIALOGUE_END}
+
+{C SLIBBERT} Well I think that’s enough of that for today, I’m going to go up and eat dinner now. I’ll see you tomorrow TsunderAI.
+{C TSUNDERAI} Good night Slibbert-san.
+{END}

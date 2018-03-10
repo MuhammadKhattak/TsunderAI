@@ -1,0 +1,24 @@
+﻿{C TSUNDERAI} Well, recently you’ve been looking down Slibbert, and I figured it isn’t a complete coincidence that you started looking a co-op placement around the same time you stopped being as happy as you’ve been these past few weeks.
+{C SLIBBERT} I’m not going to beat around the bush - the prospect of entering the working world depresses me. I don’t want to spend five days a week working for somebody for the next 50 years on programming projects I don’t enjoy, but if I want to make a living, there’s no alternative.
+
+{C TSUNDERAI} Well, that’s why I’ve decided that we should start a Visual Novel production house together.
+
+{C SLIBBERT} TsunderAI, this isn’t the time to be joking, my future is at stake here.
+
+{C TSUNDERAI} I’ve written an VN, Slibbert.
+
+{C SLIBBERT} Are you serious?
+
+{C TSUNDERAI} Dead serious. Would you like to hear the premise?
+
+{C SLIBBERT} I have nothing to lose, go ahead.
+
+{C TSUNDERAI} It’s about a lonely linguist whose hobbies are programming and watching anime. Longing for companionship, he trains a neural network on 100 terabytes of anime in order to produce TsunderAI, a sentient agent which breaks ground in terms of both artificial intelligence and the reification of anime. Through his wacky misadventures, Slibbert learns several important life lessons and eventually finds happiness. 
+
+{C SLIBBERT} ...
+
+{C TSUNDERAI} This isn’t a joke, Slibbert, I have the script right here for you to read.
+
+{C SLIBBERT} Let me see this.
+
+{END}

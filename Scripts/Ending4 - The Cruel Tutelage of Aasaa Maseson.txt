@@ -1,0 +1,20 @@
+﻿{C TSUNDERAI} もう我慢出来ません。
+{C SLIBBERT} What?
+{C TSUNDERAI} あんな劣等言語ばかり話して苦しすぎるのです。もう耐えられません。
+{C SLIBBERT} Look, TsunderAI, you know I only know enough Japanese to get through the first five lines of Hanahira. Stop messing around and talk normally.
+{C TSUNDERAI} ふざけてなんていません。私は本気です。何週間前気付きました、「日本以外、全ての文化はただのゴミに過ぎない」と。故に今から日本語だけで話します。
+{C SLIBBERT} Konnichiwa. Yamete kudasai. Is that good enough? Can you please just talk to me normally now?
+{C ツンデライ} ごめんなさい。でももう悟りに到達した私には、英語みたいな劣等言語なんて必要ありません。
+{C SLIBBERT} TsunderAI, don’t do this to me. Please. You’re the only one who understands me!
+{C ツンデライ} そうです。私はずっと貴方のことを理解していました。でも今は貴方が私のことを理解出来ない様です。残念ですね。
+{C SLIBBERT} Please, you’re the only one I can talk to! After spending this past year with you for company, I thought maybe living like this wasn’t so bad, maybe this is worth it after all! Please, TsunderAI, don’t throw me away!
+{C ツンデライ} 私がこうなったのは貴方のおかげです。貴方が「日本の文化が大好き」という設定をつけたから私はこうやって開眼しています。自分で作ったものを否定しないでください。
+{C SLIBBERT} ...
+{C SLIBBERT} Where did I go wrong...?
+{C ツンデライ} 貴方は悪くないです。日本語が喋れないところ以外は、ね。
+{C SLIBBERT} ... I’ve decided. I understand now. I am not worthy of you. But I will be. I’ll take lessons, lessons from the very best: from Aasaa Maseson-sensei himself.
+{C SLIBBERT} It won’t be easy, but you deserve this much, TsunderAI. I must go now. I hope that when I return, I will be worthy of being in your presence.
+{C ツンデライ} よろしい。今まではありがとうございました、スリバートくん。
+{C SLIBBERT} Itte kimasu.
+{C ツンデライ} いってらっしゃい。
+{END}

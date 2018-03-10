@@ -1,0 +1,16 @@
+﻿{HEAD} Interlude: The Cat’s In The Cradle
+{C NARRATOR} Once again, we join the Slow family at the dinner table. Slibbert has finally begun to bond with his parents - and to his surprise, he’s about to learn that a lot of his nature is hereditary.
+{C MR. SLOW} Hello Slibbert.
+{C SLIBBERT} Hey dad. Where’s mom?
+{C MR. SLOW} She didn’t feel like eating - she’s been in bed all day with a fever. Nothing major though, she should be fine after a good night’s sleep.
+{C SLIBBERT} Well, that’s good to hear.
+{C MR. SLOW} How’s your neuron network doing?
+{C SLIBBERT} TsunderAI’s fine, dad. You know, I appreciate you asking every so often and all, but if you don’t want to talk about anime with me, you don’t have to. I know it’s a strange hobby  and it makes me seem antisocial, but it’s just something I like to do to unwind, you know?
+{C MR. SLOW} Slibbert, I don’t think it’s strange at all. I know it can feel weird talking to your  parents about your hobbies, so I’ll let you in on a little secret - when I was your age, I used to be  pretty into comic books myself.
+{C SLIBBERT} Dad, they - 
+{C MR. SLOW} I know the difference between a comic book and a manga, Slibbert - I used to get  mad when people got them confused too. My point is, I had to deal with the stigma  associated with being a comic fan the same way you feel the stigma associated with watching anime. I had dreams of writing comics one day.
+{C SLIBBERT} Really?
+{C MR. SLOW} Yep. Unfortunately, the people around me weren’t very supportive. On top of being ridiculed for being a comic fan at school, my parents kept threatening to take away my comics - they thought I would never end up a functioning member of society if I kept reading them. In the end, I decided against becoming a comic book writer, and ended up becoming a electrical engineer instead - you know the rest of that story.
+{C SLIBBERT} You can still become an artist - I’m almost independent anyways, and you’re nearing retirement soon. You can easily pick up drawing comics, and it’s not out of question for you to get published. 
+{C MR. SLOW} That ship sailed a long time ago, Slibbert. I’m only telling you this now so that you  know that even if no one else will support you in your anime-related ambitions, I’ll always be there for you - don’t let anyone stop you from being who you want to be. In the end, I don’t  mind never having become a comic book writer - the die is cast, and sometimes you just have to sit back and embrace your fate.
+{END}

@@ -1,0 +1,30 @@
+﻿{HEAD} February 14th 2022
+
+{C TSUNDERAI} Hello, Slibbert-kun.
+{C SLIBBERT} Hey TsunderAI.
+{C TSUNDERAI} Happy Valentine’s Day, Slibbert. Do you have any plans?
+{C SLIBBERT} Er, no. I figure there’s no point - everybody at my Uni is super shallow, so it’s not worth it to try and make a connection with those normies.
+{C TSUNDERAI} Slibbert, I don’t need a tongue to know what sour grapes are.
+{C SLIBBERT} T-That’s not true! Name ONE instance of me displaying longing for interaction with anyone outside of my League crew or the Anime club.
+{C TSUNDERAI} You realize I technically have permission to view ANYTHING on this computer, right?
+{C SLIBBERT} ...
+{C TSUNDERAI} Well, that’s beside the point. Slibbert, no one can live alone forever. Don’t you have anyone you care about?
+{C SLIBBERT} I care about you, TsunderAI.
+{C TSUNDERAI} I’m just a program, Slibbert. You can’t be with a program for the rest of your life - it’s not right. 
+
+{3}
+{+S 3} TsunderAI, I’m taking my time, but I’ve definitely been improving. Before you started talking  to me, my life was a mess - I was stuck in a cycle of procrastination followed by promising to get better, and in spite of it all, I believed that everything bad that happened to me was someone else’s fault. My life fit the caricture of the antisocial otaku to a T, but now I’ve grown as a person and started caring about others, and it’s all thanks to you. You’re just as much of a person as anyone else.  {CHOICE_END} 
+{C TSUNDERAI} Thank you, Slibbert. I’d still like for you to push yourself more, but I haven’t been giving you the credit you deserve
+{DIALOGUE_END}
+
+
+{+D 3} TsunderAI, the problem isn’t with my social life - it’s with how you view yourself. You’re not “just” a program - you’re more human than anyone else I know. Flesh and bone is superficial, and I’m tired of suffering because that’s all that most people consider. When we talk, it’s because we enjoy each other’s personalities, not because of the symmetry of my face or the shape of my body. {CHOICE_END} 
+
+{C TSUNDERAI} You’re being too harsh, Slibbert - not everyone is like that
+{C SLIBBERT} The great majority of people are, and everyone who isn’t is a bystander who goes along with it for the sake of convenience. You see it in its purest form when weeaboos clash over whose Waifu is the cutest, and the most insidious when someone is denied something they earned on merit because of their race or gender. “People” aren’t worth it, TsunderAI.
+
+{C TSUNDERAI} I guess you have a point, Slibbert. {DIALOGUE_END}
+
+{+H 3} Who needs 3D girls when you have 0D girls? {CHOICE_END} 
+{C TSUNDERAI} Never change, Slibbert Slow. {DIALOGUE_END}
+{END}

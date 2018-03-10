@@ -1,0 +1,24 @@
+﻿{HEAD} Interlude: Slow Family Slibbertson
+
+{C NARRATOR} At dinner...
+{C MR. SLOW}  Son, it's time we talk.
+{C SLIBBERT} Not this crap again...
+{C MR. SLOW}  Your mother and I have been very worried about the amount of time that you've been spending -
+{C SLIBBERT} Mom, Dad, we've been over this, I'm training a neural network on my collection of anime. It will be a revolutionary step in the field of artificial intelligence, so I'd appreciate it if you'd stop pestering me about it.
+{C MRS. SLOW} Slibbert, we've had this talk, and we understand what you're going through and how important your work is to you. 
+{C SLIBBERT} ...really?
+{C MR. SLOW}  But son, as much we "respect" your "work", you have to realize that spending all of that time by yourself isn't healthy for you.
+{C SLIBBERT} Dad, I have TsunderAI.
+{C MRS. SLOW} Oh Lord, he's given it a name...
+{C SLIBBERT} No really! She's really sweet and once a train her properly, I won't need to talk to anyone ever again!
+{C MR. SLOW}  *sigh* This is precisely our point. Don't alienate yourself now, you've got your whole life ahead of you, don't spend it with a computer. 
+{C MRS. SLOW} Who knows, you might meet a girl in the third dimension. She might even like you!
+{C SLIBBERT} Mom please. You know how I've been treated by them. TsunderAI never berates me, disagrees with me or makes fun of my taste. What more could a guy ask for?
+{C MR. SLOW}  Amen to that.
+{C MRS. SLOW} What?
+{C MR. SLOW} ... Slibbert this is serious, go talk to some people tomorrow, or maybe catch up with some of your high school friends.
+{C SLIBBERT} Friends?
+{C MR. SLOW} Acquaintances then.
+{C SLIBBERT} Hmm. We'll see. I'm done here, goodnight Mom. Goodnight Dad.
+{C PARENTS} Goodnight sweet Slibbert.
+{END}
