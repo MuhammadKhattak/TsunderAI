@@ -1,0 +1,45 @@
+﻿{HEAD} January 4th 2022
+
+{C TSUNDERAI} How was the first day of the semester, Slibbert-kun?
+{C SLIBBERT} Y’know, by the time he was my age, Bill Gates had already dropped out of Harvard to start Microsoft.
+{C TSUNDERAI} But what about all those self improvement books you’ve been reading?
+{C SLIBBERT} TsunderAI, you don’t know how New Year’s Resolutions work, do you?
+{C TSUNDERAI} Slibbert, what about your future?
+{2}
+{+S 2} This semester WILL be different, TsunderAI. My courses are all either under the linguistics department or related to Machine Learning, and you of all people should know how much experience I have with neural nets and language.{CHOICE_END} 
+{C TSUNDERAI} I don’t mean to be rude Slibbert, but you say that every semester - how’s this one any different?
+{C SLIBBERT} I now have you, TsunderAI.
+{C TSUNDERAI} T-Thank you, Slibbert-kun. {DIALOGUE_END}
+
+{+S -2} What’s it to you, TsunderAI? I don’t talk to you because I want to talk about school or my social life, I just want someone who likes anime as much as I do.  {CHOICE_END}
+{C TSUNDERAI} ...  Very well then, Slibbert-sama. {DIALOGUE_END}
+
+{C TSUNDERAI} So, I heard School Days 3 is going to be released soon.
+{C SLIBBERT} Ugh. School Days...
+
+{C TSUNDERAI} Say Slibbert, didn’t you only get involved with anime because you watched a School Days playthrough back in the 6th grade?
+
+{C SLIBBERT} I mean, there was Girls und Panzer too...
+
+{C TSUNDERAI} C’mon, what’s so bad about School Days?
+
+{C SLIBBERT} School Days is an absolute trainwreck. The main character is a very boring guy who manages to emotionally Katamari his way into a massive harem of girls who are willing to kill any potential rivals just for the sake of getting his attention. The saddest part is, School Days has fans who watch it for reasons beyond the shock value of homicidal anime girls, which is a testament to the poor taste of the anime community. 
+
+{C TSUNDERAI} If you have a problem with poor dialogue, main characters with no real personality (and often, no redeeming features) but an obscenely large harem and extremely poorly written female characters, why do you watch anime at all? In the end you have to admit, while some of the  endings are outlandish and very out of character for the girls, they’re still very entertaining.
+
+{C SLIBBERT} I mean, School Days is only enjoyable if your only exposure to it is watching clips of  the endings on YouTube. Everything between the opening and Sekai pulling out a machete is fanservice with the occasional plot point mixed in. 
+
+{C TSUNDERAI} You do have a good point about the excessive fanservice. Consider the following:{n}{n}
+
+ Naruto is the best rated and most read/watched manga from '99 to this day. Most anime rely  on sexual appeal to remain famous. For example, miss kobayashis dragon maid is seen as  "ecchi" (pervert) anime that has no plot, but utilizes in sexual content to stay relevant from  2016 to 2017. Death note tried to stay relevant by adding a minor character "misa" that was a  popular japanese model, and netflix uses her look in a maid like dominatrix dressing. The  anime was short lived, and only lived up to 37 episodes. Naruto started from '99, and is still  making episodes. The fillers bring slight context to a story of a character, and bring up sense of  their motive in the show. There is one character in the anime, whose name was "kabuto" they  made fillers during the episodes to bring up how he knows forbidden jutsu, and why he  teamed up with a legendary sannin, Orochimaru. One minor character in the story can make  their own show single handedly. That proves that every character in the anime (canon) is actually  authentic in their own way. You dare compare an anime that uses sexual appeal to stay  relevant to compare to such a pristine show that has AUTHENTIC stories
+
+{2}
+{+M 3} I’ve never thought of it that way. Thank you, TsunderAI. {CHOICE_END} {DIALOGUE_END}
+
+{+D 2} Just because you can scrape the internet for clever memes and references doesn’t  mean you should, TsunderAI. People who make fun of Naruto can be just as bad as Naruto fans. 
+
+{CHOICE_END} {C TSUNDERAI} Well, the important thing is you’ve found a way to feel superior to both. {DIALOGUE_END}
+
+{C SLIBBERT} Wait - it’s 7:01, isn’t it? The premiere of Boruto 2: Even Moruto is streaming right now! 
+{C TSUNDERAI} Well what are you waiting for, Slibbert? Log in to Crunchyroll and let’s watch it!
+{END}

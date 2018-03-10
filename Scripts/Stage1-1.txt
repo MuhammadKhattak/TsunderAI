@@ -1,0 +1,94 @@
+﻿{HEAD} AN UNNAMED BASEMENT IN CANADA, 2021
+{C SLIBBERT} It’s done! The framework for the neural net is finally done!
+{C SLIBBERT} With this, I can finally make anime real! My lifelong dream is finally coming to fruition!
+{C SLIBBERT} First things first, time to start training the network...
+{C SLIBBERT} But which anime do I train it on? I should probably pick out the first few myself, so I’m more informed in case something goes wrong.
+{C SLIBBERT} Do you have any ideas, Miku-chan?
+{C HATSUNE MIKU FIGURE} ...
+{C SLIBBERT} That’s a brilliant idea! Thanks, Miku-chan. You always know the perfect thing to say.
+{C SLIBBERT} Time to consult our favourite online anime community...
+{C SLIBBERT} I’m back, 4edd8.org/a/anime!
+{C SLIBBERT} Oh, perfect! “Hey 4edd8, if you had to train a neural net to make anime real, which anime would you pick to train it on?” This is just the thread I needed!
+{C SLIBBERT} Let’s see what people have to say...{n}
+
+{C tenshi23} Angel Beats! will forever be the best anime ever made. Nothing has ever made me feel as much as that show did in 13 episodes. I only wish it were longer.
+{C funmaina} Maybe if it were, it would actually be a good show.
+{C aXu} Angel Beats! was okay, but 5 cm/s is far superior. It’s the most heart-rending depiction of growing apart and moving on ever made. It’s truly nothing short of a masterpiece. The only thing I like half as much is Naruto.
+{C surohc} ITT: People just listing their favourite shows and not actually answering the question.
+{C uChiHa_xXxXx} DID SOMEONE SAY NARUTO
+{C Di0da} JoJo is the only thing worth watching.
+{C asunart} JoJo? What’s that? If it’s an action anime then Sword Art Online did it better.
+{C uChIhA_xXxXx} NARUTO IS THE ONLY ACTION ANIME IN EXISTENCE!!!! !! ALL OTHERS ARE IMITATORS!! SASUKE WOULD KILL KIRITO INTO THE GROUND!!!!!!!!!!!!!!!!!!!!!!
+{C spstru} Hey, have you read the rules? No obnoxious caps. Are you even old enough to be on here?
+{C uChIhA_xXxXx} HOW DARE YOU SPEAK THAT WAY TO AN OFFICER OF THE PEACE
+{C asunart} WHAT DID YOU SAY ABOUT KIRITO?!!?! {n}
+
+{C SLIBBERT} Hm. Some of these are actually pretty good choices. Which should I pick?
+{5}
+{+S 2} Angel Beats! {CHOICE_END}{DIALOGUE_END}
+{+S 3} 5 cm/s {CHOICE_END}{DIALOGUE_END}
+{+A 1000000000} Naruto {CHOICE_END}{DIALOGUE_END}
+{+M 8} JoJo’s Bizarre Adventure {CHOICE_END}{DIALOGUE_END}
+{+W 3} Sword Art Online {CHOICE_END}{DIALOGUE_END}
+{C SLIBBERT} Alright, back to the thread...{n}
+
+{C bang2} Cowboy Bebop is my pick. I’d want my AI to have some taste.
+{C akkunnoyomeninaru} I propose Aho Girl, which is of course the pinnacle of taste. Never has a finer comedy ever been made.
+{C gravies} Aho Girl is terrible and so are you. How about something with some depth, like Tokyo Ghoul? You’d want the AI to be able to think, not just crave bananas and harrass people 24/7.
+{C purupururin} You think Tokyo Ghoul is deep? What are you, 12? Try Welcome to the NHK! Y’know, a show with actual depth that’s not just an edgy cringefest that could only appeal to tweens with chuunibyou.
+{C go_dan} Maybe it’d be a good idea to give the AI an appreciation for humanity, so it doesn’t, like, kill everything. I’d pick Clannad.
+{C nekodrome} ^{n}Can’t watch anime if the weeb Terminator kills you.{n}
+
+{C SLIBBERT} Which one this time?
+{5}
+{+T 5} Cowboy Bebop {CHOICE_END}{DIALOGUE_END}
+{+H 3} Aho Girl {CHOICE_END}{DIALOGUE_END}
+{+W 3} Tokyo Ghoul {CHOICE_END}{DIALOGUE_END}
+{+D 3} Welcome to the NHK! {CHOICE_END}{DIALOGUE_END}
+{+S 5} Clannad {CHOICE_END}{DIALOGUE_END}
+{C SLIBBERT} Alright, back to the thread...{n}
+
+{C hikki80000} I will never not pick Yahari Ore no Seishun Love Comedy wa Machigatteiru. Hachiman is the greatest thinker of our time. Truly, the hero we need, not the one we deserve.
+{C andes_nezumi} I don’t know what makes you edgier: actually thinking 8man has a healthy worldview, or using the full Japanese title. Seriously, stop flaunting the 3 words of Japanese you know and call it Oregairu like a normal person. How about a show that’s not just another high school drama? Try Shirobako.
+{C mikketa} What, am I a freak too for calling my favourite show Ano Hi Mita Hana no Namae wo Boku-tachi wa Mada Shiranai? As far as I’m concerned, anything less than the full title is disrespectful to that emotional masterpiece.
+{C jieit-ai} There is no shame in embracing the glorious Nipponese language desu. It is clearly the supreme tongue desu. Watashi-tachi filthy Eigo speakers hardly even deserve to live desu. We ought to revel in the glory of mother Nippon desu, so I suggest Gate: Jieitai Kanochi nite, Kaku Tatakaeri. Desu.
+{C jakku} Y’all are talking this way too seriously. How about something light, like Daily Lives of Highschool Boys? I’m sure computer programs like to relax once in a while too.{n}
+
+{C SLIBBERT} Which one this time?
+{5}
+{+D 4} Oregairu {CHOICE_END}{DIALOGUE_END}
+{+T 4} Shirobako {CHOICE_END}{DIALOGUE_END}
+{+S 4} Anohana {CHOICE_END}{DIALOGUE_END}
+{+W 5} Gate {CHOICE_END}{DIALOGUE_END}
+{+H 4} Daily Lives of Highschool Boys {CHOICE_END}{DIALOGUE_END}
+{C SLIBBERT} Alright, back to the thread...{n}
+
+{C shista} SMILE! SWEET! SISTER! SADISTIC! SURPRISE! SERVICE!
+{C seiya-seija} Please, I thought we were finished with the Blend S memes. How about something actually funny, like Amagi Brilliant Park. Nothing screams comedy gold like having an egotistical protagonist named after Kanye West, with female supporting characters named after Queen Latifah and 50 Cent.
+{C akisoft} We’d need the AI to understand us otaku as a people. I think Tomoya from Saenai Heroine no Sodatekata would be a good representative.
+{C EKKUSUKARIBAA} You can’t understand otaku without understanding anime, and Fate/Stay Night is a excellent exhibition of what anime has to offer. There’s action, there’s romance, there’s even such brilliant philosophical wisdom as “People die when they are killed.” What’s not to love?{n}
+
+{C SLIBBERT} Which one this time?
+{4}
+{+M 4} Blend S {CHOICE_END}{DIALOGUE_END}
+{+H 3} Amagi Brilliant Park! {CHOICE_END}{DIALOGUE_END}
+{+D 3} Saenai Heroine no Sodatekata {CHOICE_END}{DIALOGUE_END}
+{+W 4} Fate/Stay Night {CHOICE_END}{DIALOGUE_END}
+{C SLIBBERT} Alright, just one more peek at the thread...{n}
+
+{C mama-miia} I think it is of paramount importance that we determine how the AI feels about 7 metre long body pillows. Ergo, Monster Musume.
+{C krnk} Just how depraved can you be? It’s got to be Ore no Imouto ga konna ni Kawaii wake ga nai!
+{C chunchunmaru} Are you all forgetting the greatest comedy series to come out in the last 3 years? Kono Subarashii Sekai ni Shukufuku wo!{n}
+
+{C SLIBBERT} This should be the last one...
+{3}
+{+M 4} Monster Musume no Iru Nichijou {CHOICE_END}{DIALOGUE_END}
+{+D 4} Oreimo {CHOICE_END}{DIALOGUE_END}
+{+H 4} Konosuba {CHOICE_END}{DIALOGUE_END}
+{C SLIBBERT} That should be enough for now.
+{C SLIBBERT} Now I have a first batch of shows to test it on. I can’t wait to see how it will turn out.
+{C SLIBBERT} But I still have to figure out what to name it... Do you have any ideas, Miku-chan?
+{C HATSUNE MIKU FIGURE} ...
+{C SLIBBERT} That’s absolutely brilliant!
+{C SLIBBERT} I shall name it... TsunderAI!
+{END}

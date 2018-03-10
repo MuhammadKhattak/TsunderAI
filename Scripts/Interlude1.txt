@@ -1,0 +1,13 @@
+﻿{HEAD} Interlude: I Can’t Understand What My Son is Saying!
+{C MRS. SLOW} Slibbert, what have you been up to lately? We’ve noticed you’ve been spending a lot of time holed up in your room downstairs for the last month or so.
+{C SLIBBERT} It’s just a project, mom. Don’t worry about it.
+{C MRS. SLOW} Oh, for school? I know you’ve talked to us about it, but your father and I still don’t really understand any of this machine business that you’re studying. Maybe you could show us this project of yours sometime.
+{C SLIBBERT} No, you wouldn’t get it. It’s very technical.
+{C MR. SLOW} Don’t underestimate your old man, son. I used to be called “The Human Abacus” back in the day when I worked at the post office.
+{C SLIBBERT} Look, it’s nothing you’d be interested in, alright?
+{C MRS. SLOW} If it’s something you’re spending that much time on, I’d like to see it. Sometimes I catch you grinning like a madman after coming out from downstairs, and I have no idea what could make you so happy.
+{C SLIBBERT} It’s none of your business! Okay? Just leave me alone.
+{C MR. SLOW} Son, I understand that you love your work, but when I don’t know what you’re doing down there I can’t help but think you’d be better off spending of some of that time out in the world, talking to people and making connections. It’s easy to be good at work and projects, but what’s really important is the connections you make.
+{C SLIBBERT} The people out there are all normies! None of them could understand me, could understand that what I’m doing is far more important than “making connections” with people that don’t even know what a ahoge is! Oh, I know about connections. The neural network I’m training is brimming with them! And when I’m done training it, the people out there will tremble with awe! When I’m done, this world will never be the same.
+{C SLIBBERT} Now you’ve got your answer. I hope you’re proud. I’m going to work on it now, so don’t come down. Just leave me be.
+{END}
